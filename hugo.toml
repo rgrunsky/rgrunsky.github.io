@@ -1,0 +1,4 @@
+baseURL = 'https://robertgrunsky.com'
+languageCode = 'en-us'
+title = 'Robert Grunsky'
+theme = 'hugo-theme-stack'
