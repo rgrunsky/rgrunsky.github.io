@@ -1,0 +1,4 @@
+baseURL = "https://rgrunsky.github.io"
+languageCode = "en-us"
+title = "Robert Grunsky"
+theme="hugo-theme-stack"
