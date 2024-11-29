@@ -1,6 +1,3 @@
 [submodule "themes/hugo-theme-stack"]
 	path = themes/hugo-theme-stack
 	url = https://github.com/rgrunsky/hugo-theme-stack/
-[submodule "themes/hugo-theme-stack--force"]
-	path = themes/hugo-theme-stack--force
-	url = https://github.com/rgrunsky/hugo-theme-stack/
