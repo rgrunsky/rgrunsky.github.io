@@ -1,9 +1,9 @@
 ---
 title: Links
 links:
-  - title: Payton Schwartz
-    description: Payton Schwartz is a professional software engineer and totally inspirational.
-    website: https://paytonschwartz.com
+  - title: Payton Schwarz
+    description: Payton Schwarz is a professional software engineer and totally inspirational.
+    website: https://paytonschwarz.com
     image: /uploads/5905260.png
   - title: M.L. Nestelle
     description: M.L. Nestelle is an award-winning writer/editor/filmmaker, and totally inspirational.
