@@ -6,7 +6,55 @@
         <description>Recent content in Posts on Robert Grunsky</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Using Windows for Everything</title>
+        <link>http://localhost:1313/post/using_windows/</link>
+        <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/using_windows/</guid>
+        <description>&lt;img src="http://localhost:1313/uploads/windows.png" alt="Featured image of post Using Windows for Everything" /&gt;&lt;h1 id=&#34;using-windows-for-everything&#34;&gt;Using Windows for &lt;em&gt;Everything&lt;/em&gt;
+&lt;/h1&gt;&lt;p&gt;Over the course the past 15 years, dual booting was a mainstay in my lifestyle. I used a MacBook pro for my creative work such as &lt;a class=&#34;link&#34; href=&#34;https://soundcloud.com/djrov9/rov9-init-mix&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DJing&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://younginfinity.bandcamp.com/album/geode&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;music creation&lt;/a&gt;, and kept the gaming on my windows desktop, and most of the tinkering on a separate partition with Fedora Linux.&lt;/p&gt;
+&lt;p&gt;Over time however, the setup began to show its age. Not only was my hardware becoming outdated, but it also turns out I would spend time working on a project in Linux land, then I would be sidetracked by some new game I wanted to play in Windows, and finally I would spend a couple months making strides on some musical endeavors using my Mac. In other words, I would move from system to system, rarely finishing projects, and having difficulty keeping track of where I left off when I would return.&lt;/p&gt;
+&lt;p&gt;It seemed to me that the best solution would be all-in-one. As opposed to using three different operating systems for all the tasks I set out to do, it seemed to me that a single, powerful computer would be perfectly sufficient for all my needs. This time though, there would be no dual booting. I &lt;em&gt;had&lt;/em&gt; to settle on a single operating system.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/ScreenshotWindows.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Windows doing it all.&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;why-windows&#34;&gt;Why Windows?
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;ve been dual booting Linux on all my Windows Machines since 2003. I truly wanted to be all in with Linux. UNIX filesystems, the gnu toolchain, the beauty of the shell. Everything from the freedom of open source and libre philosophy to the way it all worked, I was a true believer. But I wanted to play games. Not to mention music. And&amp;hellip; oh never mind. Linux never became the definitive operating system that I wanted it  to be for me. The audio latency and driver issues, the graphic drivers issues (looking at you NVIDIA), the anti-cheat issues, and so on and so forth. For this all-in-one project it just won&amp;rsquo;t do.&lt;/p&gt;
+&lt;p&gt;I certainly considered mac, but one of my goals was to be able to change out parts as needed so I wanted to use some parts from my last PC in order to save money. Since I can&amp;rsquo;t build my own Mac (officially, that is) I chose Windows as the Operating System.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-discovered&#34;&gt;What I Discovered
+&lt;/h2&gt;&lt;p&gt;After using Windows exclusively for a little over a year, I&amp;rsquo;ve come away mighty impressed. There have been improvements to every aspect of the experience since the days of yore. Windows can be tiled, the powershell has been upgraded to be an extremely powerful experience nearly on par with its linux equivalents, it has package managers such as &lt;a class=&#34;link&#34; href=&#34;https://scoop.sh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;scoop&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;https://chocolatey.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;chocolatey&lt;/a&gt;, and I even have my favorite text editor &lt;a class=&#34;link&#34; href=&#34;https://neovim.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;neovim&lt;/a&gt;. Running git, testing my hugo pages, and using VScode all has integrated into my windows usage with minimal learning curve, and I am here for it.&lt;/p&gt;
+&lt;p&gt;On the audio side of my life, Windows is unable to match the utter brilliance of &lt;a class=&#34;link&#34; href=&#34;https://developer.apple.com/documentation/coreaudio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Core Audio&lt;/a&gt;. However, Windows stands head and shoulders above my experience with Linux. Fighting the issues running my favorite plugins, issues with drivers, and issues generally all around became altogether a non-starter. Once I got the correct drivers set up in Windows, everything really became mostly seamless. I certainly ran into some baffling issues such as needing to run Ableton as administrator in order to properly prioritize the program and its plugins in order to reduce latency, and an issue where I couldn&amp;rsquo;t watch youtube videos while running audio software simultaneously. Once I solved those issues, everything truly just works. I spend the majority of my creative time &lt;em&gt;creating&lt;/em&gt;. A truly beautiful thing.&lt;/p&gt;
+&lt;p&gt;I suppose I should mention gaming. while it&amp;rsquo;s certainly the least concerning issue to me, Windows just absolutely blows every other operating system out of the water in this regard. When I want to play a game, my good old Radeon RX 580 is still giving me plenty of leg room. I&amp;rsquo;ve yet to throw a game at it that just won&amp;rsquo;t run (with the glaring exception of Gothic II. What gives?!)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/gothicviolation.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;My favorite part of Gothic 2&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s so many aspects of this I still want to touch on, such as &lt;a class=&#34;link&#34; href=&#34;https://learn.microsoft.com/en-us/windows/wsl/about&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Windows Subsystem for Linux&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://www.ikmultimedia.com/products/amplitube5/index.php&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;amp sims for guitar&lt;/a&gt;, but I&amp;rsquo;ll save those for the future. Most of my activities have been able to be relegated to a single corner in my living room, which has been vital since I no longer have a designated office space. Having the PC in one place, ready to go for every project I throw at it has helped keep things focused in a way I haven&amp;rsquo;t experienced before. In conclusion, using one Windows PC for all my activities this year has proven to be a very fruitful endeavor.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>The Problem of Starting</title>
         <link>http://localhost:1313/post/blog/starting/</link>
         <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
