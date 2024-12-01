@@ -5,8 +5,8 @@ links:
     description: Payton Schwarz is a professional software engineer and totally inspirational.
     website: https://paytonschwarz.com
     image: /uploads/5905260.png
-  - title: M.L. Nestelle
-    description: M.L. Nestelle is an award-winning writer/editor/filmmaker, and totally inspirational.
+  - title: M.L. Nestel
+    description: M.L. Nestel is an award-winning writer/editor/filmmaker, and totally inspirational.
     website: https://mlnestel.com/
     image: /uploads/mlnestel.jpg
   - title: WILD Outdoor Education
